@@ -47,10 +47,13 @@ curl_setopt($ch, CURLOPT_POSTFIELDS, 'card[name]='.$nombre.'+'.$apellido.'&card[
     - https://lookup.binlist.net/
 
 
-### Files Include
+### Files included
 
 - api.php
 
-- index.php
+### About Me
+- Founder of Unc3ns0r3d - HasBins - CloudChckr (Closed)
 
-- proxy.php
+-My favorite programming languages are C ++, VB.NET, PYTHON, PHP, JAVASCIPRT and JQUERY
+
+
