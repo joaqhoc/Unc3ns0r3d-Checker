@@ -63,9 +63,7 @@ I love coffee❤
 The Unc3ns0r3d project was created 04/26/2018
 
 ### Contact Me ✉
-- joaqhoc@gmail.com or my facebook https://www.facebook.com/joaquincentu
-- My Phone numer is +54 9 3454107186 (Only if you have questions or questions)
-- I have whatsapp or telegram.
+- @MrPopos2 - Telegram
 
 ================================================================
 
@@ -130,6 +128,4 @@ Amo el café❤
 Proyecto Unc3ns0r3d fue creado el día 04/26/2018
 
 ### Contactame ✉
-- joaqhoc@gmail.com o mi facebook https://www.facebook.com/joaquincentu
-- Mi número de telefono es +54 9 3454107186 (Solo para dudas o preguntas)
-- Solo ocupo whatsapp y telegram.
+- @MrPopos2 - Telegram
